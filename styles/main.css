@@ -1,8 +1,12 @@
 body {
-  background-color: #f8f8f8;
+  background: linear-gradient(to right, #D31027, #EA384D);
   font-family: 'Varela Round', sans-serif; }
 
 .centered-text {
   text-align: center; }
+
+.error-div {
+  margin-top: 30rem;
+  color: #ffffff; }
 
 /*# sourceMappingURL=main.css.map */
